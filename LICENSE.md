@@ -1,4 +1,4 @@
-# 
+# rare Plugin for Evernote for Windows - markdown-support and cloud-sync offers the most advanced Evernote for Windows plugin, with markdown-support and cloud-sync. Ideal for
 
 
 
